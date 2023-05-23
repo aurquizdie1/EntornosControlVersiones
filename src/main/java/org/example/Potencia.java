@@ -1,10 +1,13 @@
 package org.example;
 /**
- * @author Aimar Urquizu
+ * @author Aimar Urquizu, Mario Puente
  */
 
 import java.util.Scanner;
 
+/**
+* Este es el main.
+*/
 public class Potencia {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -31,4 +34,5 @@ public class Potencia {
         }
         return resultado;
     }
+   
 }
