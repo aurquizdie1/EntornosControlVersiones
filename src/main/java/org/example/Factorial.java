@@ -1,4 +1,7 @@
 package org.example;
+/**
+ * @author Joseba Trigo
+ */
 
 import java.util.Scanner;
 
